@@ -1,5 +1,5 @@
 # calendar
-A simple text based calendar
+A simple text based calendar.
 Just give the month and the year and it will display the month view.
 
 Compile using GCC:
